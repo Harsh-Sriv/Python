@@ -20,7 +20,7 @@
 # Python also provides useful modules:
 # collections, heapq, bisect
 
-
+# List=[]; Set={}; Dict={}; Stack=[]; Queue=deque(); Deque=deque(); Heap=[]; Counter=Counter(); DefaultDict=defaultdict(list)
 # ============================================================
 # 1. LIST - Similar to C++ vector
 # ============================================================
