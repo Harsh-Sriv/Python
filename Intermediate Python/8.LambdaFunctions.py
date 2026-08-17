@@ -1,5 +1,5 @@
 # ============================================
-# INTERMEDIATE PYTHON - LAMBDA   UNCTIONS
+# INTERMEDIATE PYTHON - LAMBDA   FUNCTIONS
 # ============================================
 
 
