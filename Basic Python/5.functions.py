@@ -229,7 +229,8 @@ print(square(5))
 # 16. Function with type hints
 # ============================================================
 
-def add(a: int, b: int) -> int:
+def add(a: int, b: int) -> int:# the "-> int" indicates that the function is expected to return an integer
+    # if the given values are not integers like foat or string, it will still work but it is not recommended to use other types.
     return a + b
 
 
